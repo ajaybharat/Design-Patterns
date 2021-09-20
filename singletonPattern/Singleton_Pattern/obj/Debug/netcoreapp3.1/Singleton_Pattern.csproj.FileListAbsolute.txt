@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Design Patterns\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.exe
+C:\Users\Admin\source\repos\Design Patterns\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.deps.json
+C:\Users\Admin\source\repos\Design Patterns\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.runtimeconfig.json
+C:\Users\Admin\source\repos\Design Patterns\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Design Patterns\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.dll
+C:\Users\Admin\source\repos\Design Patterns\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.pdb
+C:\Users\Admin\source\repos\Design Patterns\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Design Patterns\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Design Patterns\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.dll
+C:\Users\Admin\source\repos\Design Patterns\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.pdb
